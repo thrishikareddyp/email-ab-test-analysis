@@ -37,4 +37,4 @@ Using real campaign data from Kaggle, I simulated an A/B test comparing two emai
 - `ab_test_analysis.ipynb` – Notebook with analysis, charts, and interpretation
 
 # Credits
-Inspired by real-world questions in marketing analytics. Dataset from Kaggle. Analysis and write-up by [Your Name].
+Inspired by real-world questions in marketing analytics. Dataset from Kaggle. Analysis and write-up by Thrishika Putta.
